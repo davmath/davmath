@@ -18,11 +18,4 @@
 
   <p>Currently, I am delving into <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>REST</strong> principles for Backend development, and <strong>Angular</strong> and <strong>Node</strong> for Frontend development.</p>
 
-
-  
-
-          
- 
- 
-
 </div>
