@@ -1,4 +1,4 @@
-### Hello there 👋 I'm David :)
+### Hello there 👋 I'm David!
 
 
  
