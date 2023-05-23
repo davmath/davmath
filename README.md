@@ -16,6 +16,6 @@
 
   <p>Currently working in the systems area assisting in the management of software development projects, serving as a point of contact between the development team and the client,     ensuring that their needs are met. I have knowledge in medical and administrative systems, as well as executing SQL scripts for data manipulation, among other tasks.</p>
 
-  <p>Currently, I am delving into <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>REST</strong> principles for Backend development, and <strong>Angular</strong> and <strong>Node</strong> for Frontend development.</p>
+  <p>I am delving into <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>REST</strong> principles for Backend development, and <strong>Angular</strong> and <strong>Node</strong> for Frontend development.</p>
 
 </div>
