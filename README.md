@@ -17,5 +17,17 @@
   <p>Currently working in the systems area assisting in the management of software development projects, serving as a point of contact between the development team and the client,     ensuring that their needs are met. I have knowledge in medical and administrative systems, as well as executing SQL scripts for data manipulation, among other tasks.</p>
 
   <p>I am delving into <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>REST</strong> principles for Backend development, and <strong>Angular</strong> and <strong>Node</strong> for Frontend development.</p>
+ <hr>
+ 
+ <div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_davemath/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/pressrforgg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/XCWsYDeVBg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "davidmatheus75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/davmath/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
 
 </div>
