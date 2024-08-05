@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm David!
 
 
- 
+ <!--
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -11,13 +11,17 @@
   <img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <br>
+  <br> -->
   <hr>
 
-  <p>Currently working in the systems area assisting in the management of software development projects, serving as a point of contact between the development team and the client,     ensuring that their needs are met. I have knowledge in medical and administrative systems, as well as executing SQL scripts for data manipulation, among other tasks.</p>
-
-  <p>I am delving into <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>REST</strong> principles for Backend development, and <strong>Angular</strong> and <strong>Node</strong> for Frontend development.</p>
-  <hr>
+ <p>
+          My career in the technology field began a few years ago, initially working in End User support, 
+          where I had direct contact with the end user. This experience was crucial for developing my soft skills, 
+          especially in communication. <br>
+          Subsequently, I worked in the systems area, managing software development projects
+          and acting as the point of contact between the development team and clients, ensuring their needs were met.<br>
+          Currently, I am specializing in RPA projects, helping business areas improve their routines and increase the company's productivity.
+ </p>
  
  <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
