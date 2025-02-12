@@ -1,4 +1,4 @@
-# David - Desenvolvedor RPA & Automação
+# Desenvolvedor (Automação e IA)
 
 ## 🛠️ Conhecimentos e Habilidades Técnicas
 
