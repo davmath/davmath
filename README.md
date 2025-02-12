@@ -15,7 +15,6 @@
 - **Melhoria Contínua**
 - **Análise de Processos**
 - **Documentação de Fluxo de Processo**
-- **Melhoria Contínua**
 ---
 
 Fique à vontade para me contatar via [LinkedIn](https://www.linkedin.com)
