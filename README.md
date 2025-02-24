@@ -3,7 +3,7 @@
 ## 🛠️ Conhecimentos e Habilidades Técnicas
 
 ### Linguagens e Ferramentas:
-- **Python**: Selenium, PyAutoGUI, Pandas
+- **Python**: Selenium, PyAutoGUI, Pandas, FastAPI
 - **Low-Code**: UiPath, PowerAutomate, Rocketbot
 - **Inteligência Artificial**: Conceitos de Machine Learning e Deep Learning (TensorFlow, PyTorch)
 - **Cloud e Banco de Dados**: AWS, Oracle, PL/SQL
